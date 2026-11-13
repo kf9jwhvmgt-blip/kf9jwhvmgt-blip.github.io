@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kf9jwhvmgt-blip.github.io/sitemap.xml
